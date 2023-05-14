@@ -1,0 +1,16 @@
+# atm_errors.log
+
+# This file logs all errors that occur in the ATM system.
+
+# Each line in the file contains the following information:
+
+# * The date and time of the error
+* The type of error (e.g., system error, transaction error)
+* A description of the error
+* The stack trace of the error, if available
+
+# Example:
+
+# 2023-05-14 12:00:00 SYSTEM ERROR - FATAL ERROR
+# 2023-05-14 12:05:00 TRANSACTION ERROR - ACCOUNT NOT FOUND
+# 2023-05-14 12:10:00 TRANSACTION ERROR - INSUFFICIENT FUNDS

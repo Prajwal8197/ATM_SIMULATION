@@ -1,0 +1,17 @@
+# atm_access.log
+
+# This file logs all access to the ATM system.
+
+# Each line in the file contains the following information:
+
+# * The date and time of the access
+# * The IP address of the user who made the access
+# * The username of the user who made the access
+# * The type of access (e.g., login, logout, deposit, withdrawal)
+# * The amount of money involved in the transaction, if applicable
+
+# Example:
+
+# 2023-05-14 12:00:00 IP_ADDRESS_1 USERNAME_1 LOGIN
+# 2023-05-14 12:05:00 IP_ADDRESS_1 USERNAME_1 DEPOSIT 100
+# 2023-05-14 12:10:00 IP_ADDRESS_1 USERNAME_1 WITHDRAWAL 50

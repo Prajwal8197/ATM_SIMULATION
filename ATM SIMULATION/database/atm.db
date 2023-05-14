@@ -1,0 +1,8 @@
+CREATE TABLE users (
+  id INT NOT NULL AUTO_INCREMENT,
+  name VARCHAR(255) NOT NULL,
+  face VARCHAR(255) NOT NULL,
+  fingerprint VARCHAR(255) NOT NULL,
+  balance INT NOT NULL,
+  PRIMARY KEY (id)
+);

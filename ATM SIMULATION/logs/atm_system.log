@@ -1,0 +1,17 @@
+# atm_system.log
+
+# This file logs all system events that occur in the ATM system.
+
+# Each line in the file contains the following information:
+
+# * The date and time of the event
+* The type of event (e.g., startup, shutdown, login, logout, deposit, withdrawal)
+* A description of the event
+
+# Example:
+
+# 2023-05-14 12:00:00 ATM STARTED
+# 2023-05-14 12:05:00 USER LOGGED IN - USERNAME_1
+# 2023-05-14 12:10:00 USER LOGGED OUT - USERNAME_1
+# 2023-05-14 12:15:00 DEPOSIT OF 100 MADE - ACCOUNT_1
+# 2023-05-14 12:20:00 WITHDRAWAL OF 50 MADE - ACCOUNT_2

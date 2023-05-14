@@ -1,0 +1,23 @@
+This file contains a list of all user activity that has occurred on the ATM system.
+The file is formatted as a CSV file, with each line containing the following information:
+* User ID
+* Username
+* IP Address
+* Location
+* Date and Time of Activity
+* Activity Type
+For example, the following is a sample of the content of the atm_user_activity_report.csv file:
+User ID,Username,IP Address,Location,Date and Time of Activity,Activity Type
+1,John Smith,127.0.0.1,New York,2023-05-14 12:00:00,Login
+2,Jane Doe,192.168.1.1,Los Angeles,2023-05-14 12:15:00,Deposit
+3,Peter Jones,10.10.10.10,London,2023-05-14 12:30:00,Withdrawal
+This file can be used to track user activity, identify suspicious activity, and investigate fraudulent transactions.
+This file will contain a list of all user activity that has occurred on the ATM system. The file is formatted as a CSV file, with each line containing the following information:
+
+User ID
+Username
+IP Address
+Location
+Date and Time of Activity
+Activity Type
+This information can be used to track user activity, identify suspicious activity, and investigate fraudulent transactions.

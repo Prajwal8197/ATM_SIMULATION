@@ -1,0 +1,16 @@
+# atm_audit.log
+
+# This file logs all audits of the ATM system.
+
+# Each line in the file contains the following information:
+
+# * The date and time of the audit
+# * The user who performed the audit
+# * The type of audit (e.g., system audit, transaction audit)
+# * A description of the audit
+
+# Example:
+
+# 2023-05-14 12:00:00 USERNAME_1 SYSTEM AUDIT
+# 2023-05-14 12:05:00 USERNAME_1 TRANSACTION AUDIT - DEPOSIT OF 100
+# 2023-05-14 12:10:00 USERNAME_1 TRANSACTION AUDIT - WITHDRAWAL OF 50
